@@ -14,26 +14,41 @@ A EFI & tools Folder For Dell Inspiron 3584
 what is working?
 
  ✅ Audio 
+ 
  ✅ Full Working apple apps
+ 
  ✅ Webcam 
+ 
  ✅ Startup sound 
+ 
  ✅ iphone,ipad calls on pc
+ 
  ✅ hibrenation & Wakeup 
+ 
  ✅ SD Card Slot
  
  what is not working?
  
  ❌ Wifi (dont worry you can use a usb dongle or change wireless board)
+ 
  ❌ Bluetooth (airdrop & sidecar),(dont worry you can use a usb dongle or change wireless board)
  
  what dongle can i use?
  
+ 
+ 
  Realtek dongles (https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/releases/)
+ 
+ 
  Archer T2U Nano (The best one)
  
- what wifi boards i can use? 
- broadcom wireless boards (play & go )
- intel boards (need itlwm kext)
+ 
+what wifi boards i can use? 
+
+broadcom wireless boards (play & go )
+ 
+ 
+intel boards (need itlwm kext)
  
  
  special thanks to:

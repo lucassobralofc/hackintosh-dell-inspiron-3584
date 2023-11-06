@@ -1,7 +1,7 @@
 # hackintosh-dell-inspiron-3584
 contribute these projects to continue the support and guarantee of our projects
 
-olarila:Donation with BTC 33HeGCuCSh4tUBqdYkQqKpSDa1E7WeAJQ3
+olarila:https://www.olarila.com/forum/90-%F0%9F%A4%B4-donators-room/
 
 my project:Bitcoin:bc1q6d9ma6m469epgn6zkm4yemtwuh9ae9xnhcernt
 
